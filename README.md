@@ -95,5 +95,3 @@ src/
 ## 라이선스
 
 MIT
-# todoapp
-# todoapp
